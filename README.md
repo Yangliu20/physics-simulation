@@ -9,7 +9,7 @@ In this project, you can
 - **Visualize** the distribution of **colliding points** on pollen particle. 
 - **Change boundary condition** as you like (periodic or rigid). Periodic boundary can be used to simulate a system of infinite size. 
 - **Change parameters** as you like, including number of particles, their radius and the initial velocity distribution (uniform or Gaussian). 
-
+<p></p>
 <p align="center">
   <img src="https://github.com/Yangliu20/physics-simulation/blob/main/docs/images/BM_gif_1.gif">
 </p>
@@ -19,3 +19,5 @@ In this project, you can
 To begin, first install [**Chart.js**](https://www.chartjs.org/docs/latest/). 
 
 Open the project in your browser (recommend: Chrome). Click `Start!` then the program will begin with default parameters showing in the parameter table. To change parameters, modify the table and click `Submit and Restart!`. After the simulation starts, you can click on `Show / Hide Trajectory` and `Periodic / Rigid Boundary` to adjust settings. Plots of velocity distribution and colliding points would update automatically. 
+
+## To-do list
