@@ -10,7 +10,7 @@ In this project, you can
 - **Change boundary condition** as you like (periodic or rigid). Periodic boundary can be used to simulate a system of infinite size. 
 - **Change parameters** as you like, including number of particles, their radius and the initial velocity distribution (uniform or Gaussian). 
 <br/>
-<center>![BM gif](https://github.com/Yangliu20/physics-simulation/blob/main/docs/images/BM_gif_1.gif)</center>
+![BM gif](https://github.com/Yangliu20/physics-simulation/blob/main/docs/images/BM_gif_1.gif)
 
 ## Usage
 
