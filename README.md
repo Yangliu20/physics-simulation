@@ -1,4 +1,4 @@
-# Simulation of 2-D Brownian Motion
+# Simulation of 2-D Brownian Motion from Scattering
 
 This project simulates 2-dimensional [Brownian Motion](https://en.wikipedia.org/wiki/Brownian_motion) based on HTML5 and JavaScript. Use **hard sphere model**. Assume the interaction between two particles to be **perfect elastic collision**. 
 
@@ -9,7 +9,7 @@ In this project, you can
 - **Visualize** the distribution of **colliding points** on pollen particle. 
 - **Change boundary condition** as you like (periodic or rigid). Periodic boundary can be used to simulate a system of infinite size. 
 - **Change parameters** as you like, including number of particles, their radius and the initial velocity distribution (uniform or Gaussian). 
-<p></p>
+<br>
 <p align="center">
   <img src="https://github.com/Yangliu20/physics-simulation/blob/main/docs/images/BM_gif_1.gif">
 </p>
